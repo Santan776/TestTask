@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mouse Tracking</title>
+</head>
+<body>
+    <h1>Mouse Tracking</h1>
+    <button id="sendButton">Отправить данные</button>
+
+    <script>
+        let mouseMovements = [];
+
+        document.addEventListener('mousemove', (event) => {
+            const time = new Date();
+            mouseMovements.push({
+		X: event.clientX, 
+		Y: event.clientY, 
+		timestamp: time
+	    });
+        });
+
+        document.getElementById('sendButton').addEventListener('click', async () => {
+	    console.log(mouseMovements);
+            const response = await fetch('https://localhost:32773/api/mousemovement', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(mouseMovements)
+            });
+
+            if (response.ok) {
+                alert('Данные успешно отправлены!');
+            } else {
+                alert('Ошибка при отправке данных.');
+            }
+        });
+    </script>
+</body>
+</html>
