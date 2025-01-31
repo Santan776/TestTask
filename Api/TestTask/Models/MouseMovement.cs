@@ -2,7 +2,7 @@
 {
     public class MouseMovement
     {
-        public DateTime TimeStamp { get; set; }
+        public DateTime Timestamp { get; set; }
 
         public int X { get; set; }
 

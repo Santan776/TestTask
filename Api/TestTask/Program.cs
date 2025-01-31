@@ -1,5 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using TestTask.DAL;
+using TestTask.DAL.Abstractions;
+using TestTask.DAL.Repositories;
+using TestTask.Services;
+using TestTask.Services.Abstractions;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,12 +17,15 @@ builder.Services.AddDbContext<ApplicationDbContext>(options =>
   "User id=User;" +
   "Password=12345"));
 
+builder.Services.AddScoped<IMouseTrackingRepository, MouseTrackingRepository>();
+builder.Services.AddScoped<IMouseTrackingService, MouseTrackingService>();
+
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("NoCors",
         builder => builder.AllowAnyOrigin() 
-                          .AllowAnyMethod()
-                          .AllowAnyHeader());
+            .AllowAnyMethod()
+            .AllowAnyHeader());
 });
 
 var app = builder.Build();
