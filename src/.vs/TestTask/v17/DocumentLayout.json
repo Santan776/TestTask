@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{718AB9CA-5A23-49E3-B011-1E8901FBC2B7}|TestTask\\TestTask.csproj|c:\\users\\jablo\\desktop\\testtask\\src\\testtask\\controllers\\mousetrackingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718AB9CA-5A23-49E3-B011-1E8901FBC2B7}|TestTask\\TestTask.csproj|solutionrelative:testtask\\controllers\\mousetrackingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C170B3E2-1991-4BE7-A2D1-73D02CF29FCC}|Tests\\Tests.csproj|c:\\users\\jablo\\desktop\\testtask\\src\\tests\\mousetrackingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C170B3E2-1991-4BE7-A2D1-73D02CF29FCC}|Tests\\Tests.csproj|solutionrelative:tests\\mousetrackingtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718AB9CA-5A23-49E3-B011-1E8901FBC2B7}|TestTask\\TestTask.csproj|c:\\users\\jablo\\desktop\\testtask\\src\\testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{718AB9CA-5A23-49E3-B011-1E8901FBC2B7}|TestTask\\TestTask.csproj|solutionrelative:testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0AF6A0-0952-42F2-9459-91F171E531B2}|TestTask.Core\\TestTask.Core.csproj|c:\\users\\jablo\\desktop\\testtask\\src\\testtask.core\\services\\mousetrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0AF6A0-0952-42F2-9459-91F171E531B2}|TestTask.Core\\TestTask.Core.csproj|solutionrelative:testtask.core\\services\\mousetrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0AF6A0-0952-42F2-9459-91F171E531B2}|TestTask.Core\\TestTask.Core.csproj|c:\\users\\jablo\\desktop\\testtask\\src\\testtask.core\\abstractions\\imousetrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D0AF6A0-0952-42F2-9459-91F171E531B2}|TestTask.Core\\TestTask.Core.csproj|solutionrelative:testtask.core\\abstractions\\imousetrackingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E56D43A-019D-4404-A010-DD7E3CC204A8}|TestTask.DAL\\TestTask.DAL.csproj|c:\\users\\jablo\\desktop\\testtask\\src\\testtask.dal\\repositories\\mousetrackingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E56D43A-019D-4404-A010-DD7E3CC204A8}|TestTask.DAL\\TestTask.DAL.csproj|solutionrelative:testtask.dal\\repositories\\mousetrackingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E56D43A-019D-4404-A010-DD7E3CC204A8}|TestTask.DAL\\TestTask.DAL.csproj|c:\\users\\jablo\\desktop\\testtask\\src\\testtask.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E56D43A-019D-4404-A010-DD7E3CC204A8}|TestTask.DAL\\TestTask.DAL.csproj|solutionrelative:testtask.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E56D43A-019D-4404-A010-DD7E3CC204A8}|TestTask.DAL\\TestTask.DAL.csproj|c:\\users\\jablo\\desktop\\testtask\\src\\testtask.dal\\abstractions\\imousetrackingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E56D43A-019D-4404-A010-DD7E3CC204A8}|TestTask.DAL\\TestTask.DAL.csproj|solutionrelative:testtask.dal\\abstractions\\imousetrackingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7AC87F4-5653-46F4-88F9-3902921A37EE}|TestTask.Domain\\TestTask.Domain.csproj|c:\\users\\jablo\\desktop\\testtask\\src\\testtask.domain\\valueobjects\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7AC87F4-5653-46F4-88F9-3902921A37EE}|TestTask.Domain\\TestTask.Domain.csproj|solutionrelative:testtask.domain\\valueobjects\\mousemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{718AB9CA-5A23-49E3-B011-1E8901FBC2B7}|TestTask\\TestTask.csproj|c:\\users\\jablo\\desktop\\testtask\\src\\testtask\\testtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{718AB9CA-5A23-49E3-B011-1E8901FBC2B7}|TestTask\\TestTask.csproj|solutionrelative:testtask\\testtask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MouseTrackingTests.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\Tests\\MouseTrackingTests.cs",
+              "RelativeDocumentMoniker": "Tests\\MouseTrackingTests.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\Tests\\MouseTrackingTests.cs",
+              "RelativeToolTip": "Tests\\MouseTrackingTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:51:01.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMouseTrackingService.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.Core\\Abstractions\\IMouseTrackingService.cs",
+              "RelativeDocumentMoniker": "TestTask.Core\\Abstractions\\IMouseTrackingService.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.Core\\Abstractions\\IMouseTrackingService.cs",
+              "RelativeToolTip": "TestTask.Core\\Abstractions\\IMouseTrackingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:49:16.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MouseTrackingService.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.Core\\Services\\MouseTrackingService.cs",
+              "RelativeDocumentMoniker": "TestTask.Core\\Services\\MouseTrackingService.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.Core\\Services\\MouseTrackingService.cs",
+              "RelativeToolTip": "TestTask.Core\\Services\\MouseTrackingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:48:34.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMouseTrackingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.DAL\\Abstractions\\IMouseTrackingRepository.cs",
+              "RelativeDocumentMoniker": "TestTask.DAL\\Abstractions\\IMouseTrackingRepository.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.DAL\\Abstractions\\IMouseTrackingRepository.cs",
+              "RelativeToolTip": "TestTask.DAL\\Abstractions\\IMouseTrackingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:48:02.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MouseTrackingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.DAL\\Repositories\\MouseTrackingRepository.cs",
+              "RelativeDocumentMoniker": "TestTask.DAL\\Repositories\\MouseTrackingRepository.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.DAL\\Repositories\\MouseTrackingRepository.cs",
+              "RelativeToolTip": "TestTask.DAL\\Repositories\\MouseTrackingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:47:46.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TestTask.DAL\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TestTask.DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:46:55.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask\\Program.cs",
+              "RelativeDocumentMoniker": "TestTask\\Program.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask\\Program.cs",
+              "RelativeToolTip": "TestTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:41:00.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MouseTrackingController.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask\\Controllers\\MouseTrackingController.cs",
+              "RelativeDocumentMoniker": "TestTask\\Controllers\\MouseTrackingController.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask\\Controllers\\MouseTrackingController.cs",
+              "RelativeToolTip": "TestTask\\Controllers\\MouseTrackingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T17:26:39.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MouseMovement.cs",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.Domain\\ValueObjects\\MouseMovement.cs",
+              "RelativeDocumentMoniker": "TestTask.Domain\\ValueObjects\\MouseMovement.cs",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask.Domain\\ValueObjects\\MouseMovement.cs",
+              "RelativeToolTip": "TestTask.Domain\\ValueObjects\\MouseMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T06:46:34.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestTask.csproj",
+              "DocumentMoniker": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask\\TestTask.csproj",
+              "RelativeDocumentMoniker": "TestTask\\TestTask.csproj",
+              "ToolTip": "C:\\Users\\jablo\\Desktop\\TestTask\\src\\TestTask\\TestTask.csproj",
+              "RelativeToolTip": "TestTask\\TestTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T17:52:46.158Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

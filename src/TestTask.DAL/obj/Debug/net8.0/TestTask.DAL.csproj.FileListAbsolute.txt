@@ -1,0 +1,16 @@
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\bin\Debug\net8.0\TestTask.DAL.deps.json
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\bin\Debug\net8.0\TestTask.DAL.dll
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\bin\Debug\net8.0\TestTask.DAL.pdb
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\bin\Debug\net8.0\TestTask.Domain.dll
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\bin\Debug\net8.0\TestTask.Domain.pdb
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.csproj.AssemblyReference.cache
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.AssemblyInfoInputs.cache
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.AssemblyInfo.cs
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.csproj.CoreCompileInputs.cache
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.sourcelink.json
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\TestTask.7774237C.Up2Date
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.dll
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\refint\TestTask.DAL.dll
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\TestTask.DAL.pdb
+C:\Users\jablo\Desktop\TestTask\Api\TestTask.DAL\obj\Debug\net8.0\ref\TestTask.DAL.dll
